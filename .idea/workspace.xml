@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4adc9e-f397-4b8d-a66b-57e68c8e8277" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/JawabanNo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JawabanNo3.java" afterDir="false" />
-    </list>
+    <list default="true" id="3b4adc9e-f397-4b8d-a66b-57e68c8e8277" name="Changes" comment="JawabanNo3.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668428789446</updated>
     </task>
+    <task id="LOCAL-00001" summary="JawabanNo3.java">
+      <created>1668429752874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668429752874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JawabanNo3.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="JawabanNo3.java" />
   </component>
 </project>
